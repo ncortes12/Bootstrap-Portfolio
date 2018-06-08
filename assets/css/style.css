@@ -1,7 +1,7 @@
 body    
         {background:url(../images/dust_scratches/dust_scratches.png);
         color:#777777;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Open Sans', sans-serif;;
         margin: 0 auto;
         height:100%;
         min-height:100%;}
@@ -13,7 +13,8 @@ h1
 
 p       {padding:px;
         margin:15px;
-        line-height:1.5;}
+        line-height:1.5;
+        font-family: 'Roboto', sans-serif;}
 
 .nav-colors {
 
